@@ -1,4 +1,3 @@
-Copper-Ethane-Yttrium
-=====================
+# Copper-Ethane-Yttrium
 
-A multiplayer chemistry quiz game
+A multiplayer chemistry quiz game written in JavaScript.
