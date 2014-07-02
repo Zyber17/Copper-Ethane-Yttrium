@@ -12,7 +12,7 @@ p:3
 a:{
 c:"Boiling",f:["Oxidization","Combustion","Decomposition"]
 },
-p:5
+p:2
 },
  
  
